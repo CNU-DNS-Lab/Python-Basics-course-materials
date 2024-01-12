@@ -1,2 +1,2 @@
 # Python-Basics-course-materials
-The repository contains Python Basics course material. 
+The repository contains Python Basics course material for school students. 
